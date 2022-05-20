@@ -28,6 +28,6 @@ After the adder runs,
 
 - You can use [Tailwind directives like `@apply` and `@screen` or use the `theme` function](https://tailwindcss.com/docs/functions-and-directives) in Svelte `style lang="postcss"` blocks or the `src/app.css` file.
 
-- You can [configure Tailwind](https://tailwindcss.com/docs/configuration) in the `tailwind.config.cjs` file.
+- You can [configure Tailwind](https://tailwindcss.com/docs/configuration) in the `tailwind.config.js` file.
 
 - Your Tailwind CSS will be purged for production builds.
